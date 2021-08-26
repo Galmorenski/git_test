@@ -1,0 +1,1 @@
+This is Gal's first git project!
